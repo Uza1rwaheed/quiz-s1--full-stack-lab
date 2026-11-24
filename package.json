@@ -1,0 +1,12 @@
+{
+  "name": "library-book-tracker",
+  "version": "1.0.0",
+  "description": "A simple library book tracker using HTML, Bootstrap, JavaScript and Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
